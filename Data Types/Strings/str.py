@@ -63,5 +63,9 @@
 # sentence1 = "This is a test sentence."
 # print('is' in sentence1)
 
+#CONVERTING A NUMBER TO A STRING
+# use the str() function
+# print(str(100))
+# print(type(str(100)))
 
 
